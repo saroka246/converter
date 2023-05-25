@@ -1,0 +1,2 @@
+/usr/local/bin/php7.1 ~/saroka246.beget.tech/public_html/utils/update.php
+*	*/3	*	*	*	

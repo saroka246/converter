@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/converter",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "sasha",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
